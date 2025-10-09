@@ -9,9 +9,9 @@ export default function Page() {
       <p className="mb-4">
         {`I made game.`}
       </p>
-        <p>game go brrr</p>
-        <a href="https://ckendrick-mqu.itch.io/counter-knights-arcane-offensive">Counter Knights: Arcane Offensive (click)</a>
-        <a href="https://github.com/ckendrick-mqu/COMP1010">Dungeons & Dungeons & Dungeons (click)</a>
+        <p>game go brrr</p> <br></br>
+        <a href="https://ckendrick-mqu.itch.io/counter-knights-arcane-offensive">Counter Knights: Arcane Offensive (click)</a><br></br>
+        <a href="https://github.com/ckendrick-mqu/COMP1010">Dungeons & Dungeons & Dungeons (click)</a><br></br>
       <div className="my-8">
         <BlogPosts />
       </div>
