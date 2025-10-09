@@ -8,7 +8,7 @@ export default function Page() {
       </h1>
       <p className="mb-4">
         {`I made game. Game go brr`}
-        {https://ckendrick-mqu.itch.io/counter-knights-arcane-offensive}
+        {'https://ckendrick-mqu.itch.io/counter-knights-arcane-offensive'}
       </p>
       <div className="my-8">
         <BlogPosts />
