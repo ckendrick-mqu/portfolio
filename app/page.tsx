@@ -7,9 +7,9 @@ export default function Page() {
         My Portfolio
       </h1>
       <p className="mb-4">
-        {`I made game. Game go brr`}
-        {'https://ckendrick-mqu.itch.io/counter-knights-arcane-offensive'}
+        {`I made game.`}
       </p>
+        <a href="https://ckendrick-mqu.itch.io/counter-knights-arcane-offensive">game go brrr</a>
       <div className="my-8">
         <BlogPosts />
       </div>
