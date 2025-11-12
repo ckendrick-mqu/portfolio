@@ -18,8 +18,6 @@ export default function Page() {
       <div className="my-8">
         <BlogPosts />
       </div>
-      
     </section>
-    
   )
 }
