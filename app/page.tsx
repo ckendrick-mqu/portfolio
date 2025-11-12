@@ -10,11 +10,11 @@ export default function Page() {
         Portfolio
       </h1>
       <p className="mb-4">
-        {`I made game.`}
+        {`IT student focused on software and games development, experienced in Agile projects and Unity/Java development.`}
       </p>
-        <p>game go brrr</p> <br></br>
-        <a href="https://ckendrick-mqu.itch.io/counter-knights-arcane-offensive">Counter Knights: Arcane Offensive (click)</a><br></br>
-        <a href="https://github.com/ckendrick-mqu/COMP1010">Dungeons & Dungeons & Dungeons (click)</a><br></br>
+        
+        <a href="https://ckendrick-mqu.itch.io/counter-knights-arcane-offensive">Counter Knights: Arcane Offensive (Play in your browser)</a><br></br>
+        <a href="https://github.com/ckendrick-mqu/COMP1010">Dungeons & Dungeons & Dungeons (Source code only)</a><br></br>
       <div className="my-8">
         <BlogPosts />
       </div>
