@@ -15,9 +15,6 @@ export default function Page() {
         
         <a href="https://ckendrick-mqu.itch.io/counter-knights-arcane-offensive">Counter Knights: Arcane Offensive (Click to play in your browser)</a><br></br>
         <a href="https://github.com/ckendrick-mqu/COMP1010">Dungeons & Dungeons & Dungeons (Source code only)</a><br></br>
-      <div className="my-8">
-        <BlogPosts />
-      </div>
     </section>
   )
 }
